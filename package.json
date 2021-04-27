@@ -13,7 +13,7 @@
   "main": "dist/apollo-link-shopify-retry.cjs.js",
   "module": "dist/apollo-link-shopify-retry.esm.js",
   "browser": "dist/apollo-link-shopify-retry.umd.js",
-  "types": "./index.d.ts",
+  "types": "./types/index.d.ts",
   "keywords": [
     "shopify",
     "rate",
