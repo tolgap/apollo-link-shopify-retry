@@ -1,0 +1,10 @@
+node_modules/
+test/
+README.md
+LICENSE
+.gitignore
+.travis.yml
+jest.config.js
+package-lock.json
+rollup.config.js
+tsconfig.json
