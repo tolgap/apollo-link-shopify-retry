@@ -54,4 +54,4 @@ By default, we log the throttles to console.log. You can disable this by passing
 
 ## Behavior
 
-It utilizes `@apollo/client/link/error`. This link checks how much cost needs to be restored in order to perform a GraphQL operation, allows you to wait until the operation can succeed. If the operation succeeds the maximum allowed cost of your Shopify API, the error will still be raised.
+It utilizes `@apollo/client/link/error`. This link checks how much cost needs to be restored in order to perform a GraphQL operation, allows you to wait until the operation can succeed. If the operation exceeds the maximum allowed cost of your Shopify API, the error will still be raised.
