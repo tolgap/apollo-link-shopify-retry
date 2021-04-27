@@ -1,4 +1,4 @@
-import { calculateDelayCost } from "../src/main";
+import { calculateDelayCost } from "../src";
 import { CostExtension } from "../types";
 
 describe("calculateDelayCost", () => {

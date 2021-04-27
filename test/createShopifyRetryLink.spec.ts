@@ -1,5 +1,5 @@
 import { ApolloLink, execute, gql, Observable } from "@apollo/client/core";
-import { createShopifyRetryLink } from "../src/main";
+import { createShopifyRetryLink } from "../src";
 
 describe("createShopifyRetryLink", () => {
   it("Does not retry a successful operation", (done) => {

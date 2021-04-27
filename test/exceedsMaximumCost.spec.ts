@@ -1,4 +1,4 @@
-import { exceedsMaximumCost } from "../src/main";
+import { exceedsMaximumCost } from "../src";
 import { CostExtension } from "../types";
 
 describe("exceedsMaximumCost", () => {
