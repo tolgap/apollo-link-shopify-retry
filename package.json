@@ -1,10 +1,28 @@
 {
   "name": "apollo-link-shopify-retry",
   "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "https://github.com/tolgap/apollo-link-shopify-retry#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolgap/apollo-link-shopify-retry.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tolgap/apollo-link-shopify-retry/issues"
+  },
   "main": "dist/apollo-link-shopify-retry.cjs.js",
   "module": "dist/apollo-link-shopify-retry.esm.js",
   "browser": "dist/apollo-link-shopify-retry.umd.js",
   "types": "./index.d.ts",
+  "keywords": [
+    "shopify",
+    "rate",
+    "limit",
+    "graphql",
+    "apollo",
+    "leaky",
+    "bucket"
+  ],
   "dependencies": {
     "@apollo/client": "^3.3.15",
     "graphql": "^15.5.0",
