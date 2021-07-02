@@ -24,13 +24,13 @@
     "bucket"
   ],
   "dependencies": {
-    "@apollo/client": "^3.3.15",
-    "graphql": "^15.5.0",
-    "zen-observable": "^0.8.15"
+    "@apollo/client": "^3.0",
+    "graphql": ">=15",
+    "zen-observable": "^0.8"
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",
-    "@types/zen-observable": "^0.8.2",
+    "@types/zen-observable": "^0.8",
     "jest": "^26.6.3",
     "rollup": "^2.45.2",
     "rollup-plugin-commonjs": "^10.1.0",
