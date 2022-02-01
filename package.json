@@ -1,6 +1,6 @@
 {
   "name": "apollo-link-shopify-retry",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "homepage": "https://github.com/tolgap/apollo-link-shopify-retry#readme",
   "repository": {
